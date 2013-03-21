@@ -14,12 +14,12 @@ You can see a sample output here: http://youtube.com/watch?v=BAZT0EW99dI
 
 This was built for iPhoto 11 running on Mountain Lion (OS X 10.8.3)
 Requires ffmpeg for econding the movie. To install this painlessly: 
-		1. Install homebrew -> http://mxcl.github.com/homebrew/
-		2. Type "brew install ffmpeg"  
+- Install homebrew -> http://mxcl.github.com/homebrew/
+- Type "brew install ffmpeg"  
 
 ## Instructions
 ```sh
-Pick a year that you want to create a movie for 
+#Pick a year that you want to create a movie for 
 THE_YEAR=2013
 
 # enter the full path to your 'iPhoto Library' file. You don't have to escape spaces...
